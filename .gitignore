@@ -138,6 +138,9 @@ encoder.json
 vocab.bpe
 vocab.json
 
+# Configuration files
+ch07/03_model-evaluation/config.json
+
 # Other
 ch0?/0?_user_interface/.chainlit/
 ch0?/0?_user_interface/chainlit.md
