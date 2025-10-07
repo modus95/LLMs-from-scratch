@@ -3,8 +3,8 @@
 &nbsp;
 ## Main Chapter Code
 
-- [01_main-chapter-code](01_main-chapter-code) contains the main chapter code and exercise solutions
-
+- [01_main-chapter-code](01_main-chapter-code) contains the main chapter code and exercise solutions  
+**SLU:** [Colab notebook](https://colab.research.google.com/drive/1u0CpTqrzXinL47Y-A2e-qDFObK520140)
 &nbsp;
 ## Bonus Materials
 

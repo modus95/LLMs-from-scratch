@@ -2,7 +2,7 @@
 
 ### Main Chapter Code
 
-- [ch07.ipynb](ch07.ipynb) contains all the code as it appears in the chapter
+- [ch07.ipynb](ch07.ipynb) contains all the code as it appears in the chapter **SLU:** [Colab notebook](https://colab.research.google.com/drive/1u0CpTqrzXinL47Y-A2e-qDFObK520140)
 - [previous_chapters.py](previous_chapters.py) is a Python module that contains the GPT model we coded and trained in previous chapters, alongside many utility functions, which we reuse in this chapter
 - [gpt_download.py](gpt_download.py) contains the utility functions for downloading the pretrained GPT model weights
 - [exercise-solutions.ipynb](exercise-solutions.ipynb) contains the exercise solutions for this chapter
