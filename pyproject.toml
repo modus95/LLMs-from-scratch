@@ -19,6 +19,7 @@ dependencies = [
   "tqdm>=4.66.1",
   "numpy>=1.26",
   "pip>=25.0.1",
+  "pandas>=2.3.3",
 ]
 
 [tool.uv.sources]

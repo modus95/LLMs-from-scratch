@@ -341,4 +341,5 @@ cython_debug/
 .pixi
 *.egg-info
 
-
+# data
+data/
